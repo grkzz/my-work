@@ -1,1 +1,1 @@
-Demo源代码素材等详情请查看其它分支
+个人demo《ResidentEve》源代码及其素材相关
