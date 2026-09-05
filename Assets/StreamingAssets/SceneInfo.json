@@ -1,0 +1,5 @@
+[
+{"id":1,"imgRes":"SceneImg/GameScene1","name":"诡城","tips":"瘟疫肆虐，病毒侵袭。\n未能及时逃离的人们化作行尸走肉，在此处游荡。","sceneName":"GameScene1","money":100,"towerHp":100},
+{"id":2,"imgRes":"SceneImg/GameScene2","name":"腐败荒野","tips":"丧尸们冲出了城镇。\n许多丧尸毫无目的地在荒野中漫步。(Tips:此Demo尚未完善地图“腐败荒野”)","sceneName":"GameScene2","money":0,"towerHp":100},
+{"id":3,"imgRes":"SceneImg/GameScene3","name":"禁忌森林","tips":"政府派出了最为精锐的一批士兵。\n他们的任务是消灭森林中的行尸走肉。(Tips:此Demo尚未完善地图“禁忌森林”)","sceneName":"GameScene3","money":0,"towerHp":100}
+]

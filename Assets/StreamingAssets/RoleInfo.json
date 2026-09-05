@@ -1,0 +1,8 @@
+[
+{"id":1,"res":"Role/Hero1","atk":3,"tips":"别西卜","lockMoney":0,"type":1,"hitEff":"eff/1"},
+{"id":2,"res":"Role/Hero2","atk":2,"tips":"阿加雷斯","lockMoney":100,"type":2,"hitEff":"eff/2"},
+{"id":3,"res":"Role/Hero3","atk":5,"tips":"萨米基纳","lockMoney":300,"type":2,"hitEff":"eff/2"},
+{"id":4,"res":"Role/Hero4","atk":2,"tips":"巴巴托斯","lockMoney":500,"type":2,"hitEff":"eff/2"},
+{"id":5,"res":"Role/Hero5","atk":4,"tips":"艾利欧格","lockMoney":800,"type":2,"hitEff":"eff/2"},
+{"id":6,"res":"Role/Hero6","atk":100,"tips":"纳贝里士","lockMoney":1000,"type":1,"hitEff":"eff/1"}
+]
